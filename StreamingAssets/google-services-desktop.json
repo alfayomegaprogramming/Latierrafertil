@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "17026642123",
+    "project_id": "tierrafertil-1f4ce",
+    "storage_bucket": "tierrafertil-1f4ce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17026642123:ios:01c85dee0ac9e881942b4e",
+        "android_client_info": {
+          "package_name": "com.alfayomegaprogramming.tierrafertil"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe81Uu_OVSIdbVsXj5bB9dOMh92MFx68c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
